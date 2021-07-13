@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=260&section=header&text=Heejae%20Jeong&fontSize=75&fontColor=ffffff&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=240&section=header&text=Heejae%20Jeong&fontSize=60&fontColor=ffffff&fontAlignY=36)
 
 <h3 align="center">⚔ Skills ⚔</h3>
 
