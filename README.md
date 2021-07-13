@@ -12,17 +12,12 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/></a>&nbsp  
 </p>
 
+<p align="center"> Design </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%2368217a.svg?style=flat&logo=c-sharp&logoColor=white"/></a>&nbsp 
-  <br>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>&nbsp
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=?style=flat&logo=Aseprite&logoColor=white"/></a>&nbsp 
 </p>
 
 
