@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Heejae%20Jeong&fontSize=85&fontColor=ffffff&fontAlignY=40)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">⚔ Skills 🛡</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Languages & Tools </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
