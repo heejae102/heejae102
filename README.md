@@ -5,14 +5,21 @@
 <p align="center"> Languages & Tools </p>
 
 <p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%2368217a.svg?style=flat&logo=c-sharp&logoColor=white"/></a>&nbsp 
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>&nbsp
+  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/></a>&nbsp  
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%2368217a.svg?style=flat&logo=c-sharp&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>&nbsp
+  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
