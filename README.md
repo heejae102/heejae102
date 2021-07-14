@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=200&section=header&text=Hi,%20I'm%20Heejae%20Jeong%20👋&fontSize=80&fontColor=ffffff&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00a2ff&height=260&section=header&text=Hi,%20I'm%20Heejae%20Jeong%20👋&fontSize=70&fontColor=ffffff&fontAlignY=36)
 
 <h3 align="center"> Skills </h3>
 
