@@ -21,7 +21,7 @@
 </p>
 
 <br/>
-<h3 align="center"> Connect with me </h3>
+<h3 align="center"> Contact </h3>
 <p align="center">
   <a href="mailto:heejae.jeong02@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp
   <a href="https://blog.naver.com/heejae_jeong02"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
